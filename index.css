@@ -12,7 +12,13 @@
     transform: translate(-50%, -50%);
 
 }
-
+img{
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+}
 #button{
     position: fixed;
     top: 55%;
